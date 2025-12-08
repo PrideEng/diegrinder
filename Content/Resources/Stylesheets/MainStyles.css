@@ -307,14 +307,11 @@ Styles after this point are styles that are for specific mediums. If any additio
 
 h4.Red
 {
-	color: ff0000;
+	color: #ff0000;
 }
 
-h2#Red
+h2.primary
 {
-	font-size: 1.2em;
-	font-weight: normal;
-	margin-bottom: 4px;
-	margin-top: 20px;
+	color: var(--Primary);
 }
 
