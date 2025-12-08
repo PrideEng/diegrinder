@@ -310,3 +310,11 @@ h4.Red
 	color: ff0000;
 }
 
+h2#Red
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 20px;
+}
+
