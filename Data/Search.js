@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A Internal Use/Model 30A Commutation.htm'],s:['+','menu'],p:[['+',1],['automatically',17],['door',29],['increments',9],['not',4],['rotary',18],['through',14]]});
