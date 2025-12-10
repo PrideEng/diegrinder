@@ -2,6 +2,8 @@
 
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
+/*<meta sourceDocument="C:\Users\mikef\OneDrive - PRIDE ENGINEERING, LLC\Service Sharepoint\Grinder\Model 30A Files\30A Manuals - Instructions\Instructions - Troubleshooting\Instructions - Troubleshooting\Replacing the Z axis ball screw assembly.docx" />*/
+
 /*===========================================================================================================================================================
 
 Hello! If this is your first time looking at a stylesheet within the text editor view, what you are reading right now is a "comment". Comments are added throughout this stylesheet with the purpose of making the source code easier to understand, comments will not be interpreted during the compile process. Since comments are not interpreted during the compile process, feel free to add or remove any comments.
@@ -313,5 +315,58 @@ h4.Red
 h2.primary
 {
 	color: var(--Primary);
+}
+
+p.red
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	color: #ff0000;
+}
+
+ol.ol_1
+{
+	padding-left: 0px;
+	list-style-type: decimal;
+	margin-left: 36pt;
+}
+
+img.img_1
+{
+	visibility: visible;
+	width: 317px;
+	height: 423px;
+}
+
+img.img_2
+{
+	visibility: visible;
+	width: 461px;
+	height: 615px;
+}
+
+span.span_1
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+p.p_1
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+li.li_1
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+img.img_3
+{
+	visibility: visible;
+	width: 289px;
+	height: 385px;
 }
 
