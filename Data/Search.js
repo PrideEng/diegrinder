@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A General/Cover Page.htm'],s:['+','movement'],p:[['+',5],['be',27],['extensive',2],['live',3],['praxes',39],['the',9],['you',28]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A General/Cover Page.htm'],s:['+','movement'],p:[['+',5],['be',27],['eye',2],['live',3],['praxes',38],['the',9],['you',28]]});
