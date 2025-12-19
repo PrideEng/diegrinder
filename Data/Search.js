@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A General/Cover Page.htm'],s:['+','must'],p:[['+',2],['bearing',0],['face',28],['location',1],['pressure',1],['the',12],['zero',15]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A General/Cover Page.htm'],s:['+','mount'],p:[['+',2],['be',15],['example',7],['less',23],['position',15],['the',3],['x',24]]});

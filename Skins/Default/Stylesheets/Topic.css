@@ -453,6 +453,13 @@ div.MCBreadcrumbsBox_0
 	color: #065695;
 }
 
+iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 560px;
+	height: 315px;
+}
+
 .dropDownHotspot
 {
 	color: #065695;
