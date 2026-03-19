@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A General/Cover Page.htm'],s:['+','month'],p:[['+',2],['be',8],['et',40],['least',1],['point',3],['that',6],['work',0]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/30A General/Cover Page.htm'],s:['+','mm'],p:[['+',2],['bar',19],['ensure',20],['jog',28],['paulo',41],['suite',0],['when',5]]});
